@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:500');
 body{
     box-sizing: border-box;
-    backgroung-image: url(./bg.jfif);
+    background-image: url(./bg.jfif);
 }
 li,a,button{
     font-family: "Montserrat",sans-serif;
